@@ -1,4 +1,4 @@
-# TODO здесь писать код
+# Функция сортировки списка
 def tpl_sort(*data):
 
     count = 0
@@ -9,6 +9,5 @@ def tpl_sort(*data):
         print(sorted(data))
     else:
         print(data)
-
 
 print(tpl_sort(6, 3, -1, 8, 4, 10, -5, -7, 15, 0))
