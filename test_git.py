@@ -11,4 +11,5 @@ def tpl_sort(*data):
     else:
         print(data)
 
+print('result:')
 print(tpl_sort(6, 3, -1, 8, 4, 10, -5, -7, 15, 0))
