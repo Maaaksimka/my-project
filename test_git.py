@@ -13,3 +13,5 @@ def tpl_sort(*data):
 print('Отсортированный список:')
 
 print(tpl_sort(6, 3, -1, 8, 4, 10, -5, -7, 15, 0))
+
+print('end')
