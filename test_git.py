@@ -1,4 +1,5 @@
 # TODO здесь писать код
+print("Функция сортировки списка")
 def tpl_sort(*data):
 
     count = 0
