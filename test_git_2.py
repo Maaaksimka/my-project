@@ -1,4 +1,4 @@
-print("Функция сортировки списка")
+# TODO здесь писать код
 def tpl_sort(*data):
 
     count = 0
